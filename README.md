@@ -6,6 +6,9 @@
 
 <h1 align="center">AMBER RUN</h1>
 
+play for free
+
+install link:
 https://play.google.com/store/apps/details?id=app.amberrun.deck&hl=en_US
 
 <p align="center">
