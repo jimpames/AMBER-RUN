@@ -6,6 +6,8 @@
 
 <h1 align="center">AMBER RUN</h1>
 
+https://play.google.com/store/apps/details?id=app.amberrun.deck&hl=en_US
+
 <p align="center">
   <strong>How the deck thinks.</strong><br>
   An endless simulation-deck runner. You do not change levels. You survive them.<br>
