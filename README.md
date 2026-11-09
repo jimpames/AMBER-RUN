@@ -1,3 +1,4 @@
+<img width="1242" height="920" alt="amber-run-poster-linked-in" src="https://github.com/user-attachments/assets/87a4a194-67a6-4ddd-9004-0f5692f2cb37" />
 <p align="center">
   <img src="guide/runner.png" width="200" alt="The runner, gold vest">
   &nbsp;&nbsp;&nbsp;
